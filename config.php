@@ -9,7 +9,7 @@ define('HTTPS_SERVER', 'http://opencart.hsn/');
 define('DIR_APPLICATION', 'F:/private/code/opencart-3/catalog/');
 define('DIR_SYSTEM', 'F:/private/code/opencart-3/system/');
 define('DIR_IMAGE', 'F:/private/code/opencart-3/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', 'F:/private/code/storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
